@@ -1,2 +1,2 @@
-# clip
-xclip without the x
+# pyclip
+A headless server alternative to xclip
